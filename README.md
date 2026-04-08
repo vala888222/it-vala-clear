@@ -8,7 +8,6 @@ A high-performance, visual system cleanup tool designed for the **IT vALA** proj
 -   **UAC Bypass**: No more "Yes/No" prompts after the initial setup.
 -   **Silent & Background Ready**: Can be scheduled to run at login via Task Scheduler.
 -   **Locked File Handling**: Automatically skips files that are currently in use by the system.
--   **Hacker Aesthetic**: Beautiful green-text terminal output.
 
 ## 📂 Folders Cleaned
 
